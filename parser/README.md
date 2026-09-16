@@ -212,15 +212,4 @@ The grammar defined in `Parser.jj` is processed by JavaCC to generate the Java p
 
 ---
 
-## Project Status
-
-The project contains the parser, grammar, test cases and build configuration required to generate and run the CALC application.
-
-The implementation was developed and extended from the initial project structure to provide the required parsing and evaluation functionality.
-
----
-
-## Author
-
-Developed as a Java project focused on **syntax analysis, grammar design and parser generation with JavaCC**.
 
