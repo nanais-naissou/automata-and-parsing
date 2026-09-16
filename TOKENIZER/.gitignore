@@ -1,0 +1,9 @@
+.project
+.classpath
+bin/
+*.class
+_*/
+
+src/reporter/
+Reporter.java
+Token.java

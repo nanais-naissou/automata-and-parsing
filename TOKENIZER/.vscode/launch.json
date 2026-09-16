@@ -1,0 +1,30 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "PrettyPrinter",
+      "request": "launch",
+      "mainClass": "Recognizer.PrettyPrinter",
+      "projectName": "TOKENIZER_73954653"
+    },
+    {
+      "type": "java",
+      "name": "Tokenizer",
+      "request": "launch",
+      "mainClass": "Recognizer.Tokenizer",
+      "args": [
+        "README.md"
+      ]
+    },
+    {
+      "type": "java",
+      "name": "Reporter",
+      "request": "launch",
+      "mainClass": "reporter.Reporter",
+      "args": [
+        "src/reporter/TEST.md"
+      ]
+    }
+  ]
+}
